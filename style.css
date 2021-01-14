@@ -1,0 +1,107 @@
+
+
+/* start navbar */
+
+.header{
+
+    background-color:whitesmoke;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+.navbar .navbar-brand > img { max-height: 40px;
+
+    width: 200px;
+
+}
+
+/*End navbar */
+
+/* start Hero section */
+.hero{
+
+    background-color: whitesmoke;
+    margin-left: 1.5px;
+    margin-right: 1.5px;
+    margin-bottom: 30px;
+}
+
+.hero img{
+
+    margin-right: 15px;
+    padding-bottom: 10px;
+}
+/*End hero section*/
+
+/*start main content*/
+
+.cart img{
+    height: 28px;
+    width: 28px;
+    padding: 0 2px 3px 2px;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+span{
+    color: tomato;
+   }
+
+
+
+.cart-new{
+
+    padding 2px 2px;
+    font-size: 15px;
+    border-radius: 8px;
+  
+}
+.cart-new img{
+
+    max-height: 48px;
+    
+}
+
+
+section{
+    
+    padding: 25px;
+}
+
+/*End main content*/
+
+
+/*start footer*/
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+    padding: 15px;
+   
+    
+
+}
+
+
+
+
+
+.categories{
+
+    border:0;
+}
+.card img{
+
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.big img{
+
+    width: 350px;
+    height: 350px;
+}
